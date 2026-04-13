@@ -1,4 +1,4 @@
-\# WiraLalu
+# WiraLalu
 
 
 
@@ -8,7 +8,7 @@ Project 2030: MyAI Future Hackathon — Track 4: Green Horizon.
 
 
 
-\## AI disclosure
+## AI disclosure
 
 
 
@@ -20,7 +20,7 @@ has been reviewed, tested, and modified by the team.
 
 
 
-\## Stack
+## Stack
 
 
 
@@ -30,9 +30,11 @@ Vertex AI Search · Cloud Run · Firestore · Pub/Sub
 
 
 
-\## Team
+## Team
 
 
 
 Kang Juwon, Charlie Ming Loi, Nanda Chen Guanyu
 
+# wiralalu-2030
+ 8e377dab17ccd3264e95afe0d838162169067eb7
